@@ -4,6 +4,10 @@ import java.util.Collection;
 import java.util.List;
 
 public class Main {
+
+    /**
+     * javaDoc
+     */
     public static void main(String[] args) {
         Collection<User> user= new ArrayList<>();;
         for(int i =0; i<10; i++){
